@@ -1,0 +1,6 @@
+﻿  Form2.cpp
+  form1.cpp
+e:\cources\semester 4\alogorithm\assignment_2\assignment_2\form1.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Assignment_2.vcxproj -> E:\Cources\Semester 4\alogorithm\Assignment_2\Debug\Assignment_2.exe
